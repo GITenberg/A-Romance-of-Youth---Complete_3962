@@ -1,0 +1,30 @@
+_repo: A-Romance-of-Youth---Complete_3962
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coppée, François
+    aliases:
+    - Coppee, Francois
+    - Coppée, Francis Edouard Joachim
+    - François Coppée
+    birthdate: 1842
+    deathdate: 1908
+    gutenberg_agent_id: '1345'
+    url: http://www.gutenberg.org/2009/agents/1345
+    wikipedia: http://en.wikipedia.org/wiki/François_Coppée
+description: ''
+gutenberg_issued: '2004-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'French fiction -- Translations into English'
+- GITenberg
+title: A Romance of Youth — Complete
+url: http://www.gutenberg.org/ebooks/3962
